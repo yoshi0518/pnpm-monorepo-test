@@ -1,0 +1,9 @@
+{
+  "name": "app1",
+  "scripts": {
+    "test": "echo \"hello app1!\""
+  },
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}

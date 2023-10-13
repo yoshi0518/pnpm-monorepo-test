@@ -1,0 +1,13 @@
+{
+  "name": "pnpm-monorepo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app1": "pnpm -F \"app1\"",
+    "app2": "pnpm -F \"app2\""
+  },
+  "keywords": [],
+  "author": "yoshi0518",
+  "license": "ISC"
+}

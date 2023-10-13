@@ -1,0 +1,6 @@
+{
+  "name": "app2",
+  "scripts": {
+    "test": "echo \"hello app2!\""
+  }
+}
